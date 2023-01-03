@@ -1,7 +1,7 @@
 ![Untitled](https://user-images.githubusercontent.com/115690921/210413655-5fd38e4e-69de-4afe-b645-63603c5bc25f.png)
 
 # Housing Project
-A case study with a focus on Data Cleaning using various SQL queries. The Dataset is available on [Kaggle](https://www.kaggle.com/tmthyjames/nashville-housing-data).
+A case study with a focus on Data Cleaning using various SQL queries. There are 56,000+ rows of Nashville housing market between 2013 and 2016. The Dataset is available on [Kaggle](https://www.kaggle.com/tmthyjames/nashville-housing-data).
 
 We have done the following:
 
